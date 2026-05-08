@@ -53,7 +53,7 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
-4. 4. Create the required directories:
+4. Create the required directories:
 
 ```bash
 mkdir -p images meshes
