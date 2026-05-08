@@ -53,6 +53,12 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
+4. 4. Create the required directories:
+
+```bash
+mkdir -p images meshes
+```
+
 ## Install Blender zForm Addon
 
 The `blender.py` script requires the zForm addon for Blender. Download and install it from:
